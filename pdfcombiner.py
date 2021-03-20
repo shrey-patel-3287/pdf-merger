@@ -1,3 +1,4 @@
+#install PyPDF2 module (pip install PyPDF2)
 import os
 from PyPDF2 import PdfFileMerger
  
